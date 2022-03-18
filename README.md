@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RomanGain
+- 👋 Hi, I’m Roman
 - 👀 I’m interested in Coding, Geography, History
 - 🌱 I’m currently learning Node.js, React
 - 📫 You can reach me via email: romangajnullin@gmail.com
