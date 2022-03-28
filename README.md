@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in Coding, Geography, History
-- 🌱 I’m currently learning Node.js, React
+- 🌱 I’m currently learning Python, Unity, Node.js, Java
 - 📫 You can reach me via email: romangajnullin@gmail.com
 
 <!---
