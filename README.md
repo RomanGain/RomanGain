@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in Coding, Geography, History, Lego
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning GO, Python, C++
 - 📫 You can reach me via email: romangajnullin@gmail.com
 
 <!---
